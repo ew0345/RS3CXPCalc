@@ -9,3 +9,5 @@ Calculates the xp a item will give when cooked based off of:
   * Pulse Core (+50%)
   * Pulse Core Boost (+0-10%)
   * Sou Chef Outfit Pieces (+0-6%)
+
+cXPv2.java is the actually file. The jar file is just a executable jar of the file if you want it.
